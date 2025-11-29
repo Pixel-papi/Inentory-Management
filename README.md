@@ -327,6 +327,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-_Completed in 3–5 hours as a technical assessment_
+_Completed as a technical assessment_
 
 </div>
+
